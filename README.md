@@ -16,7 +16,7 @@ Open a web browser and navigate to http://localhost:4200 to view the application
 Please note that Moesif CORS chrome plugin is needed to gain access to CORS
 Usage
 
-The homepage displays a list of all employees in the system. Click on an employee's name to view their details and edit or delete them. Use the search bar to filter the list of employees by name.
+The homepage displays a list of all employees in the system. Click on an employee's name to view their details and delete them. Use the search bar to filter the list of employees by name.
 
 Future Work
 Implenet the Update and Delete from CRUD
